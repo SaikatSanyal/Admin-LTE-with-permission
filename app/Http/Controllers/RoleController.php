@@ -30,5 +30,10 @@ class RoleController extends Controller
                 $roles = Role::all();
                 return view ('roles.create',['roles' => $roles]);
             }
+            public function edit()
+                {
+                    $roles = Role::all();
+                    return view ('roles.create',['roles' => $roles]);
+                }
 
     }
