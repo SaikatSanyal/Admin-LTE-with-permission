@@ -1,0 +1,26 @@
+{
+    "name": "App\\Role",
+    "line": 8,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "App",
+    "file": "C:\\xampp\\htdocs\\new\\app\\Role.php",
+    "relative_file": null,
+    "hash": "8f7256d28bdeae98833ffc9ec0f356db908a50cb",
+    "parent": "Spatie\\Permission\\Models\\Role",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "Model": "Illuminate\\Database\\Eloquent\\Model",
+        "RootRole": "Spatie\\Permission\\Models\\Role"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": [],
+    "constants": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": "CreateUsersTable",
+    "line": 7,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": [],
+    "namespace": "",
+    "file": "C:\\xampp\\htdocs\\new\\database\\migrations\\2014_10_12_000000_create_users_table.php",
+    "relative_file": null,
+    "hash": "3095770ed1c8db120fa62f0fd4d8b766edd8cee7",
+    "parent": "Illuminate\\Database\\Migrations\\Migration",
+    "modifiers": 0,
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": {
+        "Sami": "Sami\\Sami",
+        "Finder": "Symfony\\Component\\Finder\\Finder",
+        "Faker": "Faker\\Generator",
+        "Schema": "Illuminate\\Support\\Facades\\Schema",
+        "Blueprint": "Illuminate\\Database\\Schema\\Blueprint",
+        "Migration": "Illuminate\\Database\\Migrations\\Migration"
+    },
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "up": {
+            "name": "up",
+            "line": 14,
+            "short_desc": "Run the migrations.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "void",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        },
+        "down": {
+            "name": "down",
+            "line": 32,
+            "short_desc": "Reverse the migrations.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "void",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": 1,
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}
